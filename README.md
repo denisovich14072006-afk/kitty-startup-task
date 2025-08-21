@@ -1,1 +1,3 @@
-# kitty-startup-task
+My new cool startup.
+
+Everybody needs funny cats.
