@@ -12,7 +12,7 @@ app.get('/', async (req, res) => {
     const cat_data = await fetch(`${backendUrl}/cat_get`);
     const data = await cat_data.text();
 
-    res.render('index.jade', { title: "KIT Frontend", cat_url: data });
+    res.render('index.jade', { title: "KITTY Frontend", cat_url: data });
 });
 
 app.listen(port, () => {
