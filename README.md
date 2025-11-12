@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Практическое задание: Деплой стартапа "Котики в мир"
 
 ## Контекст проекта
@@ -33,3 +34,14 @@
 - Сервисы общаются только через сокеты
 - Весь внешний трафик идет через Nginx
 - Нет прямого доступа к сервисам извне
+=======
+My new cool startup.
+
+Everybody needs funny cats.
+
+Plan: 
+- user needs cats
+- we will give cats to users
+- ...
+- Profit
+>>>>>>> writing_readme
